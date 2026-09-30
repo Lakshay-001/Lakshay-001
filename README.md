@@ -10,12 +10,19 @@
 
 ---
 
-### 💡 **About Me:**
-- 🔭 **Working on:** Exciting web products like **PathshalaX** & **FTP_Games**.
-- 🌱 **Learning:** Advanced full-stack architectures & modern UI/UX design systems.
-- ⚡ **Fun Fact:** Passionate about building clean, scalable, and user-friendly web experiences.
+## ⚡️ A Few Quick Facts
 
----
+<img align="right" src="./psyduck-pok-mon-gif-psyduck-pok-mon-laptop.gif" width="220" />
+
+- 🔭 I’m currently working on **PathshalaX** and **FTP_Games**.
+- 🧐 Learning about full-stack architectures, modern UI/UX design systems, and backend scaling.
+- 🚀 Passionate about turning complex problems into clean, intuitive, and responsive web interfaces.
+- 🎯 Focused on writing efficient code and enhancing user experience across all devices.
+- 👨‍💻 Most of my projects and repositories are available on [GitHub](https://github.com/Lakshay-001).
+- 💬 Ping me about React, JavaScript, Tailwind, and frontend stuff.
+- 🎉 Fun Fact: I love building sleek and user-friendly web applications from scratch.
+
+<br clear="right">
 
 ### 🌐 **Let's Connect:**
 
