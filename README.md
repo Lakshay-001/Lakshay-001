@@ -10,15 +10,11 @@
 
 ---
 
-## ⚡️ A Few Quick Facts
-
 <img align="right" src="./psyduck-pok-mon-gif-psyduck-pok-mon-laptop.gif" width="220" />
 
-- 🔭 I’m currently working on **PathshalaX** and **Buzz Box**.
+- 🔭 I’m currently working on Some Minor Projects.
 - 🧐 Learning about full-stack architectures, modern UI/UX design systems, and backend scaling.
 - 🚀 Passionate about turning complex problems into clean, intuitive, and responsive web interfaces.
-- 🎯 Focused on writing efficient code and enhancing user experience across all devices.
-- 👨‍💻 Most of my projects and repositories are available on [GitHub](https://github.com/Lakshay-001).
 - 💬 Ping me about React, JavaScript, Tailwind, and frontend stuff.
 - 🎉 Fun Fact: I love building sleek and user-friendly web applications from scratch.
 
